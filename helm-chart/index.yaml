@@ -3,12 +3,12 @@ entries:
   newdeploy:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-12T20:54:34.478796-03:00"
+    created: "2022-10-12T23:17:00.340926-03:00"
     description: A Helm chart for Kubernetes
-    digest: 21fe2a36b4eab8aa34cf69d51c5a30329a79b179178d93ddf18c600de58df9d6
+    digest: 8b19eea930f52e8d7f4cd5722823ffcd3b1be179c54971cf16dd3a49942d6987
     name: newdeploy
     type: application
     urls:
     - https://loliva.github.io/helm-chart/newdeploy-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-12T20:54:34.478292-03:00"
+generated: "2022-10-12T23:17:00.340452-03:00"
